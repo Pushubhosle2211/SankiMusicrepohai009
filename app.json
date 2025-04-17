@@ -11,23 +11,23 @@
     "success_url": "https://t.me/AdityaDiscus",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+            "description": "18355421",
             "required": true
         },
         "API_HASH": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
+            "description": "5c91d1450f2aa10af2120eb79d5cf6aa",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
+            "description": "7551164604:AAH8gdb8b7BR-nHxIwbOsCrWiAIEFlx1jgI",
             "required": true
         },
         "STRING_SESSION": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎 𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒔𝒆𝒔𝒔𝒊𝒐𝒏 𝑶𝒇 𝒀𝒐𝒖𝒓 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑰𝑫",
+            "description": "BQEYFN0AV0ViSOGtOboWsNgxuIYAYssFvd7naRv1IroaEqcOZ42maaCZ_JnTmQ56ufGfn73zJk2tfaN31unqbd6RKyNfEkAlUEUnFzsG2u50FgbrPqxq45d9wpM8CVHeMrjeQknNWlXufzWWmRW6FWNdDrRrbYzUY7hmC25TfTkCykFCka15nvCFiO3f8nhW8L1DGomv8tEYFVEogDmOLrObeObDdK4yvHCvg6MQ0u2_PjzcvPpFaZc_5bjYNOXakq0LrnY4Da9iRWuQuJOltpjKk1uso5zg_Hbnn6bJRsoLmesQxgqJawlHZVhp7rLd04IQ7T6sKVToDF5GQszgYsF_WI91MAAAAAEwXbyeAA",
             "required": true
         },
         "DURATION_LIMIT": {
-            "description": "𝑺𝒐𝒏𝒈 𝑫𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝑳𝒊𝒎𝒊𝒕 (𝑴𝒊𝒏𝒖𝒕𝒆𝒔)",
+            "description": "20)",
             "required": true,
             "value": "60"
         },
@@ -36,15 +36,15 @@
             "required": true
         },
         "OWNER_ID": {
-            "description": "𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
+            "description": "5247664716",
             "required": true
         },
         "LOG_GROUP_ID": {
-            "description": "𝑩𝒐𝒕 𝑳𝒐𝒈𝒈𝒆𝒓 𝑮𝒓𝒐𝒖𝒑 𝑰𝑫",
+            "description": "-4790741127",
             "required": true
         },
         "MUSIC_BOT_NAME": {
-            "description": "𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆 (𝑼𝒔𝒆 𝑵𝒐𝒓𝒎𝒂𝒍 𝑭𝒐𝒏𝒕)",
+            "description": "Mm)",
             "required": true,
             "value": "Aditya Player"
         },
